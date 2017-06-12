@@ -39,7 +39,7 @@ public class CalculateAddSub {
 
 		double c = a - b;
 
-		System.out.printf("Multip of %.2f and %.2f is: %.2f", a, b, c);
+		System.out.printf("Sub of %.2f and %.2f is: %.2f", a, b, c);
 	}
 
 	private static void add() {
